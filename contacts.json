@@ -1,0 +1,67 @@
+[
+    {
+        "id": 0,
+        "owner_id": 10,
+        "contact_nickname": "Dad",
+        "phone": [{
+            "number": "1-2222428961",
+            "type": "mobile"
+        },
+        {
+            "number": "+19173454768",
+            "type": "cell"
+        }]
+    },
+    {
+        "id": 1,
+        "owner_id": 10,
+        "contact_nickname": "grandpa",
+        "phone": [{
+            "number": "(212) 345-8974",
+            "type": "mobile"
+        },
+        {
+            "number": "+12221428931",
+            "type": "cell"
+        }]
+    },
+    {
+        "id": 2,
+        "owner_id": 10,
+        "contact_nickname": "stevie",
+        "phone": [{
+            "number": "(362) 142-8939", 
+            "type": "mobile"
+        },
+        {
+            "number": "+12221428931",
+            "type": "cell"
+        }]
+    },
+    {
+        "id": 3,
+        "owner_id": 0,
+        "contact_nickname": "friend1",
+        "phone": [{
+            "number": "(362) 142-8939",
+            "type": "mobile"
+        },
+        {
+            "number": "+12221428001",
+            "type": "cell"
+        }]
+    },
+    {
+        "id": 4,
+        "owner_id": 0,
+        "contact_nickname": "friend2",
+        "phone": [{
+            "number": "1-2222428961",
+            "type": "mobile"
+        },
+        {
+            "number": "+13621478739",
+            "type": "cell"
+        }]
+    }
+]
